@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Jin
+  given-names: Zhihao
+orcid: https://orcid.org/0009-0005-7007-0199
+title:zhihaoKing/UKB_ProteAge: UKB_ProteAge v1.0
+version: 2025-08-12
+date-released: 2025-08-12
